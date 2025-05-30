@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    background-image: linear-gradient(White,blue,red);
+    text-align: center;
+}
+a{
+    border: solid 3px red;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+}
+
+
